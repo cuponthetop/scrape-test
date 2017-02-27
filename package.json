@@ -1,0 +1,22 @@
+{
+  "name": "scrape-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "charset": "^1.0.0",
+    "cheerio": "^0.22.0",
+    "iconv-lite": "^0.4.15",
+    "jschardet": "^1.4.1",
+    "lodash": "^4.17.4",
+    "request": "^2.79.0",
+    "prompt": "^1.0.0",
+    "request-promise": "^4.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
